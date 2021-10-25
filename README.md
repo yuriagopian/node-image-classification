@@ -47,4 +47,4 @@ Classification Results: [
 - Give a star if you find this repository helpful.
 ## Author 
 
-* **Tejas Rathod** - [@tejas77](https://github.com/tejas77)
+* **Yuri Agopian** - [@yuriagopian](https://github.com/yuriagopian)
